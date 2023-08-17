@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/dd813153-30de-470f-aa4a-261a16ddbae8/resourceGroups/rg-cardza_cbas-sbx-001/providers/Microsoft.Web/sites/app-wilcob-sbx",
-    "appService.deploySubpath": "src/AppService/bin/Debug/net7.0/publish"
-}
